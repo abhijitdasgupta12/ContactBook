@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "892185257382",
+    "firebase_url": "https://dbcontacts-f1103.firebaseio.com",
+    "project_id": "dbcontacts-f1103",
+    "storage_bucket": "dbcontacts-f1103.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:892185257382:android:68893edde12ade40c21b67",
+        "android_client_info": {
+          "package_name": "com.example.contactbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "892185257382-58djighvdl4arnm1skuqcn32lp14fpt2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.contactbook",
+            "certificate_hash": "c2032b9613c34e4de4d052f7eaa36a2e4148aa74"
+          }
+        },
+        {
+          "client_id": "892185257382-3somrc3uks16os8kr3ovn6bbulm50c6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJgOP9L-_gDgt-yCKi5-z3siHntcsvU54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "892185257382-3somrc3uks16os8kr3ovn6bbulm50c6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
