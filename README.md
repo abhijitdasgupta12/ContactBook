@@ -1,0 +1,2 @@
+# ContactBook
+"Contact Book" is a simple &amp; easy to use phone directory for android devices. This application can be used to store contact information in user's device. To prevent data loss, the application allows the user to upload &amp; retrieve the data from cloud. This application was made as a test project &amp; I will update this software in future with new features to make it more userfriendly.
